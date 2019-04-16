@@ -1,0 +1,11 @@
+acess.log
+fianl.txt
+matheus1.txt
+matheus2.txt
+matheus3.txt
+pasta1
+pasta2
+pasta3
+README.md
+trabalho1.2019
+ultimocomando.txt
